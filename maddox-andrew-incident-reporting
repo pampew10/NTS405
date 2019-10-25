@@ -1,0 +1,74 @@
+Incident Reporting Systems
+Andrew Maddox
+University of Advancing Technology
+
+
+
+
+
+
+
+
+
+
+It is important when choosing the incident response system for your company to have a well-educated decision. Therefore, it is important 
+to analyze different programs and determine which offers the best value and services for your needs. Therefore, in this paper we will be 
+analyzing two available incident reporting systems, Omnigo and CIP Reporting and comparing their strengths and weaknesses and what that 
+might mean for a company looking to use them.
+
+To begin we can start by looking at the reporting system Omnigo and what strengths, weaknesses, and what situations it is best suited to 
+be used in. According to Omnigo’s website their system “enables your security team to track, report, and analyze data trends,” and by 
+looking through many of their features their target audience is companies who have a physical location (Software, O). Their incident 
+response service combines the management of physical security risks such as break-ins and guest management with more online related 
+risks. It allows its users to create response plans in case of a security breach or risk is detected and helps the flow of fixing the 
+security problem go smoothly by sending out information and instructions to the correct people. Omnigo does not say on its website that 
+it supports cross-company communication, but it does, however, say it provides law enforcement communication tools. These tools include 
+case management, criminal databases, investigation management, evidence management, and dispatching. 
+
+So, what type of company would want to use Omnigo?  To start, a large part of what Omnigo offers is physical security reporting 
+integration with cybersecurity reporting. This means that if your company is at risk for an incident that could include a physical 
+component, like if you run a data center where physical access is a major danger, then this system offers a lot of useful tools for 
+integrating those two security fields together with one tool. This also means, however, that if your company has no physical location 
+or one that is not in need of robust physical security infrastructure, then Omnigo is most likely not the ideal reporting system. 
+Another important piece of information is that Omingo’s website gives no indication that they have integrated cross-company support 
+into the software, making it undesirable for a company that heavily relies on that type of integration. Though for those companies 
+who do not need cross-communication it provides a robust interface to manage the law enforcement side of incidents, which is invaluable 
+for smaller companies who may not have all of the resources themselves to do so.
+
+Now that we have analyzed what types of companies would want to use Omnigo, what types of companies would want to use the other 
+incident report system, CIP Reporting. The CIP Reporting focuses more on the cyber side of security incidents and allows for not only 
+incident reporting but risk management as well. CIP Reporting’s website states that the service provides “customizable solutions for 
+unique business requirements represented as documents, forms, and logs,” which are very useful features for keeping records during both 
+an incident, as well as during normal operations (Risk Management). The reporting system also provides a way to structure your 
+organization so if an incident occurs each member can be assigned a role in responding to the incident in an efficient and effective 
+manner. Just like Omnigo however, the website does not mention cross-company communication capabilities, which again is something that 
+could be a major negative when looking to use the CIP Reporting software.
+
+Overall the CIP Reporting software provides many powerful tools with very few downsides. It is great for any company that is looking 
+to approve their incident responsibilities by more efficiently executing incident response plans and assigning responsibilities faster. 
+It also provides a robust framework for the company to manage reports as well as other documents including logs. This gives very 
+powerful risk management capabilities as you are able to check logs as well as check them against past logs where an incident was 
+imminent. These capabilities make this reporting system very useful for companies who might not want all of the physical report 
+capabilities of Omnigo, but also desire robust risk management and incident reporting system.
+
+In conclusion, each incident reporting system has both its upsides and its downsides. For example, if you are a company that values a 
+powerful system which both manages your physical security incidents along with your cybersecurity incidents and provides robust law 
+enforcement management, then Omnigo is the better choice for your company. While if your company values a well-managed and simple 
+solution to assigning roles during an incident making responses quicker, then CIP Reporting would be your choice over Omnigo. While 
+each system offers its own perks, they still don't offer everything, as neither seems to offer cross-company information sharing. 
+This is why it is important to look at and test the system, if a demo is available, and make sure it fits the needs of your company 
+before committing to using it. 
+	
+
+
+
+
+
+
+
+
+
+
+References
+Risk Management. (n.d.). Retrieved from https://www.cipreporting.com/products/industries/risk_management
+Software, O. (n.d.). Incident Reporting Software. Retrieved from https://www.omnigo.com/solutions/incident-reporting-software
